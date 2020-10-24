@@ -1,6 +1,12 @@
 {
   "name": "nuxtapp",
   "displayName": "nuxtapp",
+  "publisher": "create-nuxt-app",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cgobbo8/create-nuxt-app.git"
+  },
+  "account" : "all accessible accounts",
   "description": "",
   "version": "0.0.1",
   "engines": {
